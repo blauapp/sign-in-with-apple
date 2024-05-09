@@ -153,8 +153,6 @@ The Services ID (`CLIENT_ID`) will identify the particular instance of your app,
     ruby client_secret.rb
     ```
 
-    > Example Result
-    
-    ```text
-    eyJraWQiOiJGUVVBN0RYUkJGIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiI3TUM2VVpSMlVWIiwiaWF0IjoxNTU5NjE0MjU2LCJleHAiOjE1NzUxNjYyNTYsImF1ZCI6Imh0dHBzOi8vYXBwbGVpZC5hcHBsZS5jb20iLCJzdWIiOiJsb2wuYXZvY2Fkby5jbGllbnQifQ.t6wIFrSKwuCZsJ9I1TWWBCdxmUMG3g0kNyNnxhkpG3oZAKY2UdXqL5CyRGTa21OYHa6ir1JFWkdBDjTNvt8hYC
-    ```
+    Example output:
+
+    > `eyJraWQiOiJGUVVBN0RYUkJGIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiI3TUM2VVpSMlVWIiwiaWF0IjoxNTU5NjE0MjU2LCJleHAiOjE1NzUxNjYyNTYsImF1ZCI6Imh0dHBzOi8vYXBwbGVpZC5hcHBsZS5jb20iLCJzdWIiOiJsb2wuYXZvY2Fkby5jbGllbnQifQ.t6wIFrSKwuCZsJ9I1TWWBCdxmUMG3g0kNyNnxhkpG3oZAKY2UdXqL5CyRGTa21OYHa6ir1JFWkdBDjTNvt8hYC`
